@@ -8,6 +8,6 @@
 
 
 
-
+Console.WriteLine("Hello World!");
 
 获取GUID: Guid id = Guid.NewGuid();
